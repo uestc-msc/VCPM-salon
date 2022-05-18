@@ -1,2 +1,3 @@
 # VCPM-demo
-Demo of how to do version control and project management
+
+📑 [沙龙文字稿](script.md)
